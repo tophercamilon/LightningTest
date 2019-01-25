@@ -1,0 +1,647 @@
+[
+    [
+        "/home/topher/ProdTest/ProdTest/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547618560522,
+            "changeTime": 1547618560522,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1548035608684,
+            "changeTime": 1548035608684,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1548310665399,
+            "changeTime": 1548310665399,
+            "contentHash": "acdb4ec67cb30954ac46b608316d7019d71e140f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547798827549,
+            "changeTime": 1547798827549,
+            "contentHash": "c3a20ba0d882948dd59933d2a71a5fecf61ea6e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547706155954,
+            "changeTime": 1547706155954,
+            "contentHash": "635058be9076df739085dcf30c102fbe4c5f7fc8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestApp.app",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1547706552026,
+            "changeTime": 1547706552026,
+            "contentHash": "126886783a47084b6f3189d4be0cb831de8bfa94",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1547706155950,
+            "changeTime": 1547706155950,
+            "contentHash": "4775d420d815a74d2e99727ef39dfa4ed685c9c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestApp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestApp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1547706155954,
+            "changeTime": 1547706155954,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestApp.css",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestApp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1547706155954,
+            "changeTime": 1547706155954,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestApp.svg",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestApp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1547706155954,
+            "changeTime": 1547706155954,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestAppController.js",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestAppController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1547706155950,
+            "changeTime": 1547706155950,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestAppHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestAppHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1547706155954,
+            "changeTime": 1547706155954,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestAppRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/MyTestApp/MyTestAppRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1547706155954,
+            "changeTime": 1547706155954,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployee",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployee",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547798827545,
+            "changeTime": 1547798827545,
+            "contentHash": "807af11b5338b44a4b94668bc375563e8d1128a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployee/NewEmployee.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployee/NewEmployee.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1163,
+            "modifiedTime": 1547798827545,
+            "changeTime": 1547798827545,
+            "contentHash": "5edf5a984c722a5ad32d2eb1c62a5115228a8b06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployee/NewEmployee.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployee/NewEmployee.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1547798827545,
+            "changeTime": 1547798827545,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployee/NewEmployeeController.js",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployee/NewEmployeeController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1523,
+            "modifiedTime": 1547798827545,
+            "changeTime": 1547798827545,
+            "contentHash": "c75438bb60583060bb4e7ca14b89e7ed9e04fd0e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployee/NewEmployeeHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployee/NewEmployeeHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1517,
+            "modifiedTime": 1547798827545,
+            "changeTime": 1547798827545,
+            "contentHash": "047a9c2620d9420eb423e04da2e847d0d7d5b09b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployeeApp",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployeeApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547798827549,
+            "changeTime": 1547798827549,
+            "contentHash": "89c1023ad7a5d2c1d34de292e7874dd5a5c1441d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployeeApp/NewEmployeeApp.app",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployeeApp/NewEmployeeApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 92,
+            "modifiedTime": 1547798827549,
+            "changeTime": 1547798827549,
+            "contentHash": "2e14eacd639d92e009a02db986e8b828d6ffc0b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployeeApp/NewEmployeeApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/NewEmployeeApp/NewEmployeeApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1547798827549,
+            "changeTime": 1547798827549,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/compEvent",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/compEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547798827549,
+            "changeTime": 1547798827549,
+            "contentHash": "6d67647650cb00f3cf246126ff46e2ed572e478e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/compEvent/compEvent.evt",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/compEvent/compEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 62,
+            "modifiedTime": 1547798827549,
+            "changeTime": 1547798827549,
+            "contentHash": "8cdbd7f680e6f8409a64c03b86295cae27fe0eef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/compEvent/compEvent.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/compEvent/compEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1547798827549,
+            "changeTime": 1547798827549,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/newEmployeeTest",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/newEmployeeTest",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547798827549,
+            "changeTime": 1547798827549,
+            "contentHash": "4edbad58660f7c86781a2009df8d800601189d22",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/newEmployeeTest/newEmployeeTest.app",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/newEmployeeTest/newEmployeeTest.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 112,
+            "modifiedTime": 1547798827549,
+            "changeTime": 1547798827549,
+            "contentHash": "ce7fbf72627eb539049f027b0b5b011e5ef26b02",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/newEmployeeTest/newEmployeeTest.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/aura/newEmployeeTest/newEmployeeTest.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1547798827549,
+            "changeTime": 1547798827549,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547798827573,
+            "changeTime": 1547798827573,
+            "contentHash": "25960c9ed14a83ac2bc58835083fe6fbc225174c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/classes/NewEmployeeController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/classes/NewEmployeeController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 912,
+            "modifiedTime": 1547798827573,
+            "changeTime": 1547798827573,
+            "contentHash": "c9803770622ee8f550cfc4cc4725c0e1d8e1b6a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/classes/NewEmployeeController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/classes/NewEmployeeController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1547798827573,
+            "changeTime": 1547798827573,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547798827569,
+            "changeTime": 1548310662962,
+            "contentHash": "3bd159f19c78bea1ad7b7576539f20f840379339",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/layouts/Employee__c-Employee Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/layouts/Employee__c-Employee Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2086,
+            "modifiedTime": 1547798827569,
+            "changeTime": 1547798827569,
+            "contentHash": "81a0215908b582a5885869eb1a51edbeffa415f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547798827565,
+            "changeTime": 1547798827565,
+            "contentHash": "b55e89b820e04112537fad94f319312e07f6509e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547798827565,
+            "changeTime": 1547798827565,
+            "contentHash": "e20ebabb66b9d4ddd2c52acd067d36f96eaf7023",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c/Employee__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c/Employee__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2018,
+            "modifiedTime": 1547798827565,
+            "changeTime": 1547798827565,
+            "contentHash": "8effad648b94ded1fcc77a6cc91123070159b31a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547798827565,
+            "changeTime": 1547798827565,
+            "contentHash": "68570c57e5d3490fcb1ff76dfac39b7b7ba77172",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c/fields/Birthdate__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c/fields/Birthdate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 312,
+            "modifiedTime": 1547798827565,
+            "changeTime": 1547798827565,
+            "contentHash": "78d173274a25a770f3cd971f1c2bd2a75da6c3c8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c/fields/HMO_Plan__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c/fields/HMO_Plan__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 322,
+            "modifiedTime": 1547798827565,
+            "changeTime": 1547798827565,
+            "contentHash": "ff2f2cb0e5b276fa5f0e7aa5ec4c1c6aab9fddcf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c/fields/Marital_Status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/objects/Employee__c/fields/Marital_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1145,
+            "modifiedTime": 1547798827565,
+            "changeTime": 1547798827565,
+            "contentHash": "cff9326a264fcd6a492081efc3dc2ca0a93df6cb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547706386118,
+            "changeTime": 1547706386118,
+            "contentHash": "1951994d3b9288fae1448ceb83fd972054dded38",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/staticresources/newTest.js",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/staticresources/newTest.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1983,
+            "modifiedTime": 1548035731200,
+            "changeTime": 1548035731200,
+            "contentHash": "98259ad910a56cab3611cb7ec913efc28136cbdc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest/force-app/main/default/staticresources/newTest.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest/force-app/main/default/staticresources/newTest.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 216,
+            "modifiedTime": 1547706401754,
+            "changeTime": 1547706401754,
+            "contentHash": "80efd974f478fc877ff822e15d4647ab4f08cd19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/topher/ProdTest/ProdTest",
+        {
+            "state": "n",
+            "sourcePath": "/home/topher/ProdTest/ProdTest",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1547618653266,
+            "changeTime": 1547618653266,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
