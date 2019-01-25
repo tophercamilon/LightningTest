@@ -53,7 +53,7 @@ describe('c:newEmployee', function () {
         } 
         newDay  = mm + '/' + newDD + '/' + yyyy;
 
-       $T.createComponent('c:newEmployee', {startDate: today}, true)
+       $T.createComponent('c:newEmployee', {startDate: newDay}, true)
           .then(function (component) {
             
              expect(component.find("startDatecmp").get("v.value")).toBe(today);
